@@ -63,7 +63,7 @@ Se abordan las siguientes preguntas utilizando Python y Power BI:
 ## 🚀 Autor
 **Iván García Raso**  
 GitHub: [IvanDataProjects](https://github.com/IvanDataProjects)  
-LinkedIn: [[Iván García Raso](https://www.linkedin.com/in/ivan-garcia-raso/)]()
+LinkedIn: [Iván García Raso](https://www.linkedin.com/in/ivan-garcia-raso/)
 
 ---
 
